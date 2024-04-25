@@ -1,6 +1,6 @@
 # Chatbot with RAG and Conversation Memory
 
-A Chatbot application can search the web for information and incorporate the retrieved information when generating an answer. 
+A Chatbot application that can search the web for information and incorporate the retrieved information when generating an answer. 
 This enables the chatbot to be aware of current events and up-to-date information.
 The application also stores the chat history as a JSON file so the information can persist and be referred to by the chatbot during each session.
 
